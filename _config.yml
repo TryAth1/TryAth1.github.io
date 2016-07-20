@@ -2,13 +2,13 @@
 title: 一路向北
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "顾晨亮|to be out·to be in"  
+description: "涤生|to be out·to be in"  
 baseurl: ""
 url: "http://tryath1"  
 
 # About/contact
 owner: 
-  name: " 顾晨亮"
+  name: " 涤生"
   email: guchenliangsh@gmail.com
   bio: "人生苦短,何妨一试"
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "顾晨亮"
+      author: "涤生"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
