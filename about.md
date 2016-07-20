@@ -2,12 +2,12 @@
 layout: page
 title: "About"
 description: "人生苦短,何妨一试 "
-header-img: "img/green.jpg"
+header-img: "img/twitter.jpg"
 ---
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="img/dolphin.jpg" align="center"></p>
 </center>
 
 我是顾晨亮,目前大三暑假,本科金融,我记得有人提出过这样一个问题,金融是一群人的零和
