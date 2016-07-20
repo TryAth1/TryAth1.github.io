@@ -10,9 +10,15 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是顾晨亮,目前大三暑假,本科金融,我记得有人提出过这样一个问题,金融是一群人的零和博弈吗?以致我开始怀疑所学的这些东西是否能够给这个世界带来一丁点的贡献。
+我是顾晨亮,目前大三暑假,本科金融,我记得有人提出过这样一个问题,金融是一群人的零和
 
-于是我开始转向数据分析这块,我希望未来我可以进入到人工智能,或许我可以给这世界带来一丁点的改变.
+博弈吗?
+
+以致我开始怀疑所学的这些东西是否能够给这个世界带来一丁点的贡献。
+
+于是我开始转向数据分析这块,我希望未来我可以进入到人工智能,或许我可以给这世界带来
+
+哪怕一丁点的改变。
 
 现在研习 **机器学习** 。
 
@@ -32,7 +38,7 @@ header-img: "img/green.jpg"
 
 还有会在乎你死活的朋友。
 
-​                                                                                                                   [龙族](http://baike.baidu.com/link?url=80vb0_PbTIOb-1N-uCFW6zJRAjOedibiA8alS5AUe-WAmnGsp7be1GEmiWPtf8rxHM1EVx6cUqzhQown0jnGu3s5tP9oriqujBOLrlZVLCK)-**路明非**
+> [龙族](http://baike.baidu.com/link?url=80vb0_PbTIOb-1N-uCFW6zJRAjOedibiA8alS5AUe-WAmnGsp7be1GEmiWPtf8rxHM1EVx6cUqzhQown0jnGu3s5tP9oriqujBOLrlZVLCK)-**路明非**
 
 
 
@@ -55,6 +61,8 @@ header-img: "img/green.jpg"
 - [知乎@大大大懒猫](https://www.zhihu.com/people/da-da-da-lan-mao)
 
   ​
+
+  > 祝愿你我都try anything once.
 
 
 <center>
