@@ -7,7 +7,7 @@ header-img: "img/twitter.jpg"
 
 
 <center>
-    <p><img src="img/dolphin.gif" align="center"></p>
+    <p><img src="http://oam2zfeyb.bkt.clouddn.com/wallet.jpg" align="center"></p>
 </center>
 
 我是顾晨亮,目前大三暑假,本科金融,我记得有人提出过这样一个问题,金融是一群人的零和
