@@ -29,7 +29,7 @@ description: 本篇是对于kaggle2011年9月1日的冠军队伍Market Makers的
 
 ### 损失函数定义
 
-- ![](http://oam2zfeyb.bkt.clouddn.com/6.png)
+- ![](http://7d9mjz.com1.z0.glb.clouddn.com/20150913-220033.jpg)
 
   > 如果我们把使 pred=log(pred+1),act=log(act+1),那么我们就可以得到
   >
