@@ -38,7 +38,7 @@ header-img: "img/green.jpg"
 
 还有会在乎你死活的朋友。
 
-> [龙族](http://baike.baidu.com/link?url=80vb0_PbTIOb-1N-uCFW6zJRAjOedibiA8alS5AUe-WAmnGsp7be1GEmiWPtf8rxHM1EVx6cUqzhQown0jnGu3s5tP9oriqujBOLrlZVLCK)-**路明非**
+> [龙族](http://baike.baidu.com/link?url=80vb0_PbTIOb-1N-uCFW6zJRAjOedibiA8alS5AUe-WAmnGsp7be1GEmiWPtf8rxHM1EVx6cUqzhQown0jnGu3s5tP9oriqujBOLrlZVLCK)- 路明非
 
 
 
@@ -62,11 +62,11 @@ header-img: "img/green.jpg"
 
   ​
 
-  > 祝愿你我都try anything once.
+  > 祝愿你我都  try anything once.
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="C:\Users\guche\Pictures\Saved Pictures\wallet" align="center"></p>
 </center>
 
 
