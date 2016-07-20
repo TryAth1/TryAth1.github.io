@@ -29,11 +29,11 @@ description: 本篇是对于kaggle2011年9月1日的冠军队伍Market Makers的
 
 ### 损失函数定义
 
-- ![](tryath1.github.io/img/6.png)
+- ![](http://oam2zfeyb.bkt.clouddn.com/6.png)
 
   > 如果我们把使 pred=log(pred+1),act=log(act+1),那么我们就可以得到
   >
-  > ![](tryath1.github.io/img/7.png)
+  > ![](http://oam2zfeyb.bkt.clouddn.com/7.png)
   >
   > 实际上就是预测值与实际值差的一种表示方式
   >
