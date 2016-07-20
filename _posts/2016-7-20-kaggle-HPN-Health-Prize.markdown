@@ -1,11 +1,11 @@
+```
 layout: post
 title: kaggle-HPN Health Prize 冠军队伍文献探讨
 date: 2016-7-20
 categories: blog
 tags: [机器学习]
 description: 本篇是对于kaggle2011年9月1日的冠军队伍Market Makers的算法的探讨
-
-****
+```
 
 # 流程
 
