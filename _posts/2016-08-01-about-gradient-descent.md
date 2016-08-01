@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 写就是写本身的报酬(留存模版)
+title: 谈谈梯度下降法和牛顿法
 date: 2016-08-01
 categories: blog
 tags: [机器学习]
