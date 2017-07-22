@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FRM BOOK1 Chapter1
+title: FRM BOOK1 Chapter2
 date: 2017-07-22
 categories: blog
 tags: [FRM]
